@@ -31,7 +31,7 @@ body{background:var(--ink)}
 .e10-sheet h2{font:700 clamp(1.8rem,3.6vw,2.8rem)/1.08 var(--font-display);letter-spacing:-.02em}
 .e10-paper{background:var(--bg);color:var(--ink)}
 .e10-soft{background:#fff;color:var(--ink)}
-.e10-brand{background:var(--brand);color:#fff}.e10-brand h2{color:#fff}
+.e10-tone{background:var(--brand);color:#fff}.e10-tone h2{color:#fff}
 .e10-ink{background:var(--ink);color:#fff}.e10-ink h2{color:#fff}
 .e10-split{display:grid;gap:34px;align-items:start}
 @media (min-width:900px){.e10-split{grid-template-columns:1fr 1.1fr;gap:64px}}
@@ -80,8 +80,8 @@ body{background:var(--ink)}
 .e10-cta .e10-cta-img{position:relative;min-height:300px;border-radius:28px;overflow:hidden}
 .e10-cta .e10-photo{position:absolute;inset:0}
 .e10-cta .amb{position:absolute;inset:0}
-.e10-brand .btn-ghost{color:#fff;border-color:rgba(255,255,255,.7)}
-.e10-brand .btn-ifood{background:#fff;color:var(--ink);border-color:#fff}
+.e10-tone .btn-ghost{color:#fff;border-color:rgba(255,255,255,.7)}
+.e10-tone .btn-ifood{background:#fff;color:var(--ink);border-color:#fff}
 .e10-footer{position:relative;background:var(--ink);color:#fff;margin-top:calc(-1 * var(--r));border-radius:var(--r) var(--r) 0 0;padding:56px 0 140px}
 .e10-footer p{margin:0 0 .35em;color:#bbb;font-size:.9rem}.e10-footer .f-name{font:700 1.3rem var(--font-display);color:#fff}
 .e10-footer .f-links{display:flex;flex-wrap:wrap;gap:10px 18px;margin:12px 0}.e10-footer .f-links a{color:#fff}

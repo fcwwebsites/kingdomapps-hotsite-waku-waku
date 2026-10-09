@@ -112,3 +112,5 @@ body{background:var(--bg)}
 .e9-hero h1{font-size:clamp(2rem,10vw,4.4rem);overflow-wrap:normal;word-break:normal}
 @media (min-width:900px){.e9-hero h1{font-size:clamp(3rem,5.1vw,5.6rem)}}
 .e10-hero{padding-bottom:110px}
+.e9-head-cell h2{font-size:clamp(2rem,4.1vw,3.8rem);overflow-wrap:break-word}
+.e9-three .ct-addr p{font-size:1.45rem}
